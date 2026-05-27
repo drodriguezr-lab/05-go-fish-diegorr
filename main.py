@@ -8,7 +8,7 @@ def make_plot():
     """
     (Si no modificas esta cadena de texto lloro)
     Si repites mucho tu código para
-    graficar puedes guardarlo en una función
+    graficar puedes guardarlo en una f
     """
     ... # Esto significa implementación pendiente, lo puedes eliminar
 
